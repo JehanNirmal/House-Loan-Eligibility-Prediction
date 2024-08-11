@@ -1,2 +1,3 @@
 # House-Loan-Eligibility-Prediction
 This repository offers a comprehensive approach to building a robust loan prediction system using machine learning models. The goal is to improve the accuracy and efficiency of loan approvals in banking institutions. By analyzing a range of datasets, including borrower profiles and loan outcomes, the project aims to identify crucial predictive variables. It constructs models designed to reliably assess an applicant's creditworthiness, thereby enhancing the loan approval process.
+![image](https://github.com/user-attachments/assets/e2576821-ee93-4170-9087-eb1e83b4f9bc)
